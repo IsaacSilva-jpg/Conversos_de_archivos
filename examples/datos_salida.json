@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Isaac",
+        "edad": 23,
+        "salario": 12500.0,
+        "fecha_registro": "2025-12-02",
+        "activo": true
+    },
+    {
+        "nombre": "Ana",
+        "edad": 30,
+        "salario": 9800.0,
+        "fecha_registro": "2025/11/30",
+        "activo": false
+    },
+    {
+        "nombre": "Luis",
+        "edad": 54,
+        "salario": 15000.0,
+        "fecha_registro": "02-12-2025",
+        "activo": true
+    }
+]
